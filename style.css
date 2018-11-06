@@ -1,0 +1,99 @@
+body {
+
+   background-color: black;
+
+   color: green;
+
+   font-family: 'Indie Flower', sans-serif;
+
+   font-size: 18px;
+
+   font-weight: 200;
+
+   line-height: 1.6;
+
+   margin: auto;
+
+   padding-bottom: 36px;
+
+   width: 768px;
+
+}
+
+
+
+h1 {
+
+font-family: 'Patua One', cursive;
+
+   font-size: 3rem;
+
+   text-align: center;
+
+}
+
+
+
+h2 {
+
+   font-family: 'Patua One', cursive;
+
+   font-size: 2.25rem;
+
+   margin-top: 48px;
+
+   text-align: center;
+
+}
+
+
+
+div {
+
+   display: block;
+
+   text-align: border-bottom;
+
+}
+
+
+
+div p {
+
+   font-size: 14px;
+
+   margin: 0;
+
+}
+
+
+
+div a {
+
+   border: 0;
+
+}
+
+
+
+a {
+    display:inline-block;
+   border-bottom: 1px solid #f6879b;
+    font-weight:bold;
+
+   color: #ccc;
+
+   padding-bottom: 3px;
+
+   text-decoration: none;
+
+
+}
+
+
+
+li {
+
+   margin: 6px;
+
+}
